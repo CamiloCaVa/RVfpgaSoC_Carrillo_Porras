@@ -25,7 +25,7 @@ The following error appeared, which will be shown below in the following image:
 
 ![WhatsApp Image 2022-03-06 at 11 48 45 PM](https://user-images.githubusercontent.com/94850035/157121643-24dff339-d187-45d3-9c33-436ab18a70ad.jpeg)
 
-we realized that it was due to the lack of libraries in the verilated.cpp file, so we proceeded to find the path where this file was located to modify it, as shown in the following image:
+We realized that it was due to the lack of libraries in the verilated.cpp file, so we proceeded to find the path where this file was located to modify it, as shown in the following image:
 
 ![WhatsApp Image 2022-03-07 at 12 45 04 AM](https://user-images.githubusercontent.com/94850035/157122736-92e9f756-74fb-437c-8d31-b49b3d997fce.jpeg)
 
@@ -37,24 +37,7 @@ iostream
 ´´´
 the previous commands were executed again, being successful this time.
 
--
 
-
-#### Presented by:	#### Presented by:
-<p align="left">	<p align="left">
-@@ -31,4 +55,4 @@ Electronic Engineering student at Universidad Industrial de Santander - Colombia
-<p align="center">	<p align="center">
-  <img src="img/imagination.jpg" height="150" title="Imagination University">	  <img src="img/imagination.jpg" height="150" title="Imagination University">
-  <img src="img/uis.png" height="150" title="Universidad Industrial de Santander">	  <img src="img/uis.png" height="150" title="Universidad Industrial de Santander">
-</p>	</p>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Prici
 #### Presented by:
 <p align="left">
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
