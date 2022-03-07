@@ -43,13 +43,13 @@ the previous commands were executed again, being successful this time.
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
 Camilo E. Carrillo <br />
-Electronic Engineering student at Universidad Industrial de Santander - Colombia
+Electronic Engineering bachelor student at Universidad Industrial de Santander - Colombia
 
 <p align="left">
   <img src="img/epprofile.jpeg" width="150" title="Erika Porras">
 </p>
 Erika D. Porras <br />
-Electronic Engineering student at Universidad Industrial de Santander - Colombia <br />
+Electronic Engineering bachelor student at Universidad Industrial de Santander - Colombia <br />
 
 #### Special Thanks
 <p align="center">
