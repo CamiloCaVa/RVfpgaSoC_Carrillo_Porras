@@ -16,11 +16,11 @@ In this part we began to develop the implementation and use of the modules creat
 Below we will show the different errors that occurred when making this second part:
 
 - when the binary simulator had to be generated using the following commands
-´´´
+```
 ➢	cd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
 ➢	make clean
 ➢	make
-´´´
+```
 The following error appeared, which will be shown below in the following image:
 
 ![WhatsApp Image 2022-03-06 at 11 48 45 PM](https://user-images.githubusercontent.com/94850035/157121643-24dff339-d187-45d3-9c33-436ab18a70ad.jpeg)
@@ -30,11 +30,11 @@ we realized that it was due to the lack of libraries in the verilated.cpp file, 
 ![WhatsApp Image 2022-03-07 at 12 45 04 AM](https://user-images.githubusercontent.com/94850035/157122736-92e9f756-74fb-437c-8d31-b49b3d997fce.jpeg)
 
 After adding the libraries shown in the image above, which are:
-´´´
+```
 limits
 cstddef
 iostream
-´´´
+```
 the previous commands were executed again, being successful this time.
 
 -
