@@ -37,6 +37,11 @@ iostream
 ```
 the previous commands were executed again, being successful this time.
 
+-When we tried to generate the trace.vcd file via VSCode and PlatformIO, we got the following simulation output:
+
+![2022-03-07 (3)](https://user-images.githubusercontent.com/94850035/157125956-ed2fcc08-2a07-4285-894c-d3a5fffd40fa.png)
+
+when the file was searched in the path where it was generated, we realized that it was not there, so we proceeded to see if it was in a hidden file, but this was not the case
 
 #### Presented by:
 <p align="left">
