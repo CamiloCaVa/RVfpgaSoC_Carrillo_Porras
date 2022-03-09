@@ -20,6 +20,11 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
   <img src="img/BD Proyecto Arq.jpeg" width="850" title="Block Design">
 </p>
 
+< br />After we built block design, we proceeded to generate the bitstream which was completed successfully, how shows the next picture:
+<p align="center">
+	<img src="img/bitstream.jpg" width="850" title="Bitsream">
+</p>
+
 ## Laboratory 2
 In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. To carry out these objectives, the Verilator tool was used with which, later, using PlatformIO, the process of creating the trace could be continued.
 
