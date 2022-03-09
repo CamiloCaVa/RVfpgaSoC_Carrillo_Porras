@@ -23,7 +23,9 @@ Below we will show the different errors that occurred when making this second pa
 ```
 The following error appeared, which will be shown below in the following image:
 
-![WhatsApp Image 2022-03-06 at 11 48 45 PM](https://user-images.githubusercontent.com/94850035/157121643-24dff339-d187-45d3-9c33-436ab18a70ad.jpeg)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/94850035/157121643-24dff339-d187-45d3-9c33-436ab18a70ad.jpeg" width="850">
+</p>
 
 We realized that it was due to the lack of libraries in the verilated.cpp file, so we proceeded to find the path where this file was located to modify it, as shown in the following image:
 
