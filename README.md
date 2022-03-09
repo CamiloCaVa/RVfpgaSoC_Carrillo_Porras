@@ -3,8 +3,14 @@
 ## Introduction
 Through this document we want to present a development of a part of the RVfpgaSoC course which was carried out in order to begin to internalize and manage the construction of a SweRVolfX SoC subset from scratch using basic components such as the core, the memories and the SweRV peripherals. As basic tools, Vivado was used, Cygwin (Since it was done on Windows, this being expendable if working on Linux), Visual Studio Code (PlatformIO), among others.
 
-## First Part
-The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of a Swerv Wrapper module, an Interconnect Wrapper module, a Boot-ROM module, one GPIO Top module, one System Controller module and 32 Bidirectional GPIO modules, to finally have a block design like this: 
+## Laboratory 1
+The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of: 
+* [Swerv Wrapper module](img/ModulesPDF/1_Module_swerv_wrapper_verilog.pdf)
+* Interconnect Wrapper module
+* Boot-ROM module
+* GPIO Top module
+* System Controller module
+* 32 Bidirectional GPIO modules, to finally have a block design like this: 
 <p align="center">
   <img src="img/BD.jpg" width="850" title="Block Design">
 </p>
@@ -29,7 +35,9 @@ The following error appeared, which will be shown below in the following image:
 
 We realized that it was due to the lack of libraries in the verilated.cpp file, so we proceeded to find the path where this file was located to modify it, as shown in the following image:
 
-![WhatsApp Image 2022-03-07 at 12 45 04 AM](https://user-images.githubusercontent.com/94850035/157122736-92e9f756-74fb-437c-8d31-b49b3d997fce.jpeg)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/94850035/157122736-92e9f756-74fb-437c-8d31-b49b3d997fce.jpeg" width="850">
+</p>
 
 After adding the libraries shown in the image above, which are:
 ```
