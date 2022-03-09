@@ -1,7 +1,11 @@
 # RVfpgaSoC Curse
 
 ## Introduction
-Through this document we want to present a development of a part of the RVfpgaSoC course which was carried out in order to begin to internalize and manage the construction of a SweRVolfX SoC subset from scratch using basic components such as the core, the memories and the SweRV peripherals. As basic tools, Vivado was used, Cygwin (Since it was done on Windows, this being expendable if working on Linux), Visual Studio Code (PlatformIO), among others.
+Through this document we want to present a development of a part of the RVfpgaSoC course which was carried out in order to begin to internalize and manage the construction of a SweRVolfX SoC subset from scratch using basic components such as the core, the memories and the SweRV peripherals. As basic tools: 
+* Vivado
+* Cygwin (Since it was done on Windows, this being expendable if working on Linux)
+* Visual Studio Code (PlatformIO)
+* Among others.
 
 ## Laboratory 1
 The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of: 
@@ -16,7 +20,7 @@ To finally have a block design, with a top view, like this:
   <img src="img/BD Proyecto Arq.jpeg" width="850" title="Block Design">
 </p>
 
-## Second Part
+## Laboratory 2
 In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. To carry out these objectives, the Verilator tool was used with which, later, using PlatformIO, the process of creating the trace could be continued.
 
 ### Errors presented
