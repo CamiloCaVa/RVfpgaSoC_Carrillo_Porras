@@ -65,7 +65,7 @@ When we tried to generate the trace.vcd file via VSCode and PlatformIO, we got t
 	<img src="https://user-images.githubusercontent.com/94850035/157126861-ff13dcd1-b585-42db-9025-2ff1f684065c.png" width="850">
 </p>
 
-when the file was searched in the path where it was generated, we realized that it was not there, so we proceeded to see if it was in a hidden file, but this was not the case
+When the file was searched in the path where it was generated, we realized that it was not there, so we proceeded to see if it was in a hidden file, but this was not the case
 
 ## Conclusions
 * The complements given by the Imagination University at laboratory 1 allowed to simplify the work, letting us make to building of the block design in a few steps that consisted in wired the connections and then do the bitstream without any problem.
