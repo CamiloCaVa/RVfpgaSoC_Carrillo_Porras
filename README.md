@@ -6,11 +6,12 @@ Through this document we want to present a development of a part of the RVfpgaSo
 ## Laboratory 1
 The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of: 
 * [Swerv Wrapper module](img/ModulesPDF/1_Module_swerv_wrapper_verilog.pdf)
-* Interconnect Wrapper module
-* Boot-ROM module
-* GPIO Top module
-* System Controller module
-* 32 Bidirectional GPIO modules, to finally have a block design like this: 
+* [Interconnect Wrapper module](img/ModulesPDF/2_Module_IntconWrapper.pdf)
+* [Boot-ROM module](img/ModulesPDF/3_Module_BootromWrapper.pdf)
+* [GPIO Top module](img/ModulesPDF/4_Module_SysconWrapper.pdf)
+* [System Controller module](img/ModulesPDF/)
+* 32 [Bidirectional GPIO modules](img/ModulesPDF/)
+To finally have a block design, with a top view, like this: 
 <p align="center">
   <img src="img/BD.jpg" width="850" title="Block Design">
 </p>
