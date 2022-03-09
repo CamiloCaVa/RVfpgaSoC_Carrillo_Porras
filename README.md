@@ -20,14 +20,13 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
   <img src="img/BD Proyecto Arq.jpeg" width="850" title="Block Design">
 </p>
 
-< br />After we built block design, we proceeded to generate the bitstream which was completed successfully, how shows the next picture:
+<br />After we built block design, we proceeded to generate the bitstream which was completed successfully, how shows the next picture:
 <p align="center">
 	<img src="img/bitstream.jpg" width="850" title="Bitsream">
 </p>
 
 ## Laboratory 2
-In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. To carry out these objectives, the Verilator tool was used with which, later, using PlatformIO, the process of creating the trace could be continued.
-
+In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. Next, we used Verilator to complete this connections, and then with PlatformIO we continued with the creating process of the trace.
 ### Errors presented
 Below we will show the different errors that occurred when making this second part:
 
@@ -62,6 +61,14 @@ the previous commands were executed again, being successful this time.
 ![image](https://user-images.githubusercontent.com/94850035/157126861-ff13dcd1-b585-42db-9025-2ff1f684065c.png)
 
 when the file was searched in the path where it was generated, we realized that it was not there, so we proceeded to see if it was in a hidden file, but this was not the case
+
+## Conclusions
+* The complements given by the Imagination University at laboratory 1 allowed to simplify the work, letting us make to building of the block design in a few steps that consisted in wired the connections and then do the bitstream without any problem.
+* Algo
+* Del Gtkwave xd
+
+## References
+* [RVfpgaSoC Curse by Imagination University](https://university.imgtec.com/resources/download/rvfpgasoc-v1-0/)
 
 #### Presented by:
 <p align="left">
