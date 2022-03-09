@@ -27,10 +27,13 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
 
 ## Laboratory 2
 In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. Next, we used Verilator to complete this connections, and then with PlatformIO we continued with the creating process of the trace.
+
+Sigue aquí el lab 2
+
 ### Errors presented
 Below we will show the different errors that occurred when making this second part:
 
-- when the binary simulator had to be generated using the following commands
+- When the binary simulator had to be generated using the following commands
 ```
 ➢	cd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
 ➢	make clean
@@ -54,11 +57,13 @@ limits
 cstddef
 iostream
 ```
-the previous commands were executed again, being successful this time.
+The previous commands were executed again, being successful this time.
 
--When we tried to generate the trace.vcd file via VSCode and PlatformIO, we got the following simulation output:
+When we tried to generate the trace.vcd file via VSCode and PlatformIO, we got the following simulation output:
 
-![image](https://user-images.githubusercontent.com/94850035/157126861-ff13dcd1-b585-42db-9025-2ff1f684065c.png)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/94850035/157126861-ff13dcd1-b585-42db-9025-2ff1f684065c.png" width="850">
+</p>
 
 when the file was searched in the path where it was generated, we realized that it was not there, so we proceeded to see if it was in a hidden file, but this was not the case
 
