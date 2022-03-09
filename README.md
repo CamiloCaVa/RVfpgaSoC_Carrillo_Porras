@@ -8,12 +8,12 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
 * [Swerv Wrapper module](img/ModulesPDF/1_Module_swerv_wrapper_verilog.pdf)
 * [Interconnect Wrapper module](img/ModulesPDF/2_Module_IntconWrapper.pdf)
 * [Boot-ROM module](img/ModulesPDF/3_Module_BootromWrapper.pdf)
-* [GPIO Top module](img/ModulesPDF/4_Module_SysconWrapper.pdf)
-* [System Controller module](img/ModulesPDF/)
-* 32 [Bidirectional GPIO modules](img/ModulesPDF/)
+* [System Controller module](img/ModulesPDF/4_Module_SysconWrapper.pdf)
+* [GPIO Top module](img/ModulesPDF/5_Module_GpioWrapper.pdf)
+* 32 [Bidirectional GPIO modules](img/ModulesPDF/6_Modules_Bidirec_X_32.pdf)
 To finally have a block design, with a top view, like this: 
 <p align="center">
-  <img src="img/BD.jpg" width="850" title="Block Design">
+  <img src="img/BD Proyecto Arq.jpg" width="850" title="Block Design">
 </p>
 
 ## Second Part

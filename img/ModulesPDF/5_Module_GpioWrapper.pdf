@@ -8351,3 +8351,73 @@ trailer
 startxref
 108934
 %%EOF
+1 0 obj
+<</Author (Hamza)
+/Producer (Concept Engineering GmbH)
+/Creator (Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36)
+/Title (BD_imp)
+/CreationDate (D:20210304164414Z)
+/ModDate (D:20220309144304-05'00')
+>>
+endobj
+2 0 obj
+<</Type /Catalog
+/PageMode /UseThumbs
+/Pages 3 0 R
+/Outlines 7 0 R
+/ViewerPreferences <</DisplayDocTitle true
+>>
+/Metadata 38 0 R
+>>
+endobj
+10 0 obj
+<</Contents 11 0 R
+/Rotate 0
+/CropBox [519.0000 275.2500 590.2500 567.7500]
+/Type /Page
+/MediaBox [519.0000 275.2500 590.2500 567.7500]
+/Parent 3 0 R
+/Resources 5 0 R
+>>
+endobj
+38 0 obj
+<</Type /Metadata
+/Length 1142
+/Subtype /XML
+>>
+stream
+<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta x:xmptk="Nitro Pro 13 (13.35.2.685)" xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/" xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#" xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/" xmlns:xmp="http://ns.adobe.com/xap/1.0/"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">BD_imp</rdf:li>
+</rdf:Alt>
+</dc:title>
+<dc:creator><rdf:Seq><rdf:li>Hamza</rdf:li>
+</rdf:Seq>
+</dc:creator>
+<xmp:CreatorTool>Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36</xmp:CreatorTool>
+<pdf:Producer>Concept Engineering GmbH</pdf:Producer>
+<xmp:CreateDate>2021-03-04T16:44:14Z</xmp:CreateDate>
+<xmp:ModifyDate>2022-03-09T14:43:04-05:00</xmp:ModifyDate>
+<xmp:MetadataDate>2022-03-09T14:43:04-05:00</xmp:MetadataDate>
+</rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+endstream
+endobj
+xref
+1 2
+0000109760 00000 n
+0000109988 00000 n
+10 1
+0000110146 00000 n
+38 1
+0000110342 00000 n
+trailer
+<</ID [<27B9D9F63BBC576ABE9EB01B9358CB55> <27B9D9F63BBC576ABE9EB01B9358CB55>]
+/Root 2 0 R
+/Size 39
+/Prev 108934
+/Info 1 0 R
+>>
+startxref
+111575
+%%EOF
