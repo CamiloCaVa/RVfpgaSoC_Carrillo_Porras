@@ -70,7 +70,7 @@ when the file was searched in the path where it was generated, we realized that 
 ## References
 * [RVfpgaSoC Curse by Imagination University](https://university.imgtec.com/resources/download/rvfpgasoc-v1-0/)
 
-#### Presented by:
+### Presented by:
 <p align="left">
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
@@ -83,7 +83,7 @@ Electronic Engineering bachelor student at Universidad Industrial de Santander -
 Erika D. Porras <br />
 Electronic Engineering bachelor student at Universidad Industrial de Santander - Colombia <br />
 
-#### Special Thanks
+### Special Thanks
 <p align="center">
   <img src="img/imagination.jpg" height="150" title="Imagination University">
   <img src="img/uis.png" height="150" title="Universidad Industrial de Santander">
